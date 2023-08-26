@@ -7,7 +7,7 @@
 - Integrated external APIs to fetch real-time stock data and news updates using yfinance, enhancing the app's ability to provide up-to-date information to users.
 - Leveraged Streamlit's capabilities for rapid prototyping and deployment, resulting in a user-friendly web app that doesn't require prior web development experience.
 
-**RMSE: 1.85**
+**Root Mean Squared Error: 1.44**
 
 **Tech Stack:**
 - Programming Languages: Python
